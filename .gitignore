@@ -1,3 +1,6 @@
+# glb files
+*.glb
+
 # Logs
 logs
 *.log
